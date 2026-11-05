@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "295207746969",
+    "firebase_url": "https://buku-alamat-crud-app-513ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buku-alamat-crud-app-513ea",
+    "storage_bucket": "buku-alamat-crud-app-513ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295207746969:android:112f781227cf2d6e222708",
+        "android_client_info": {
+          "package_name": "com.example.buku_alamat_firebase_cmd_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5001nTvyyb20QrA0akKjdIEOT-oI9dVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
